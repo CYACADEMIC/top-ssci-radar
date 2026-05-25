@@ -62,5 +62,5 @@ jobs:
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: "📚 EduTech期刊有新文章更新！"
           to: 15553590893@163.com
-          from: ${{ secrets.MAIL_USERNAME }}
+          from: 15553590893@163.com
           body: file://public/data/summary.txt
