@@ -1,5 +1,61 @@
 [
   {
+    "id": "https://openalex.org/W7162944759",
+    "title": "A framework for university readiness in extended reality (XR): a socio-technical perspective",
+    "authors": [
+      "Mohammed Hafeth Hakami",
+      "Jayan Chirayath Kurian",
+      "Ghassan Beydoun"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-05-31",
+    "doi": "10.1186/s41239-026-00599-5",
+    "url": "https://doi.org/10.1186/s41239-026-00599-5",
+    "abstract": "Abstract Despite the pedagogical potential of Extended Reality (XR) to transform higher education, institutional adoption continues to be fragmented, marked by abandoned pilots and high failure rates. Existing maturity models, such as the Technology Readiness Level (TRL), prioritize hardware functionality but fail to account for the complexity of university environments. This study addresses this gap by developing a systemic framework for university XR readiness. Employing a Socio-Technical Grou",
+    "keywords": [
+      "Perspective (graphical)",
+      "Multitude",
+      "Maturity (psychological)",
+      "Higher education",
+      "Convergence (economics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00599-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T23:27:03.192997"
+  },
+  {
+    "id": "https://openalex.org/W7162938326",
+    "title": "Associations between work overload, prolonging working hours, calling and exhaustion: Longitudinal evidence in a teacher sample",
+    "authors": [
+      "Doris Hofer",
+      "Sarah A.K. Kuhn",
+      "Daniel Spurk",
+      "Andreas Krause",
+      "Anita Sandmeier"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-31",
+    "doi": "10.1016/j.tate.2026.105652",
+    "url": "https://doi.org/10.1016/j.tate.2026.105652",
+    "abstract": "",
+    "keywords": [
+      "Sample (material)",
+      "Work (physics)",
+      "Longitudinal study",
+      "Longitudinal sample",
+      "Large sample"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105652",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T23:27:29.932365"
+  },
+  {
     "id": "https://openalex.org/W7162851175",
     "title": "A simple, scalable growth mindset intervention increases students’ sense of research community belonging in underrepresented minority and first generation undergraduates",
     "authors": [
