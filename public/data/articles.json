@@ -1,5 +1,141 @@
 [
   {
+    "id": "https://openalex.org/W7163804440",
+    "title": "Systematic peer back-evaluation was associated with higher-quality feedback and stronger task performance than sampled teacher monitoring in an EFL translation course",
+    "authors": [
+      "Yimin Tong",
+      "Christian D. Schunn",
+      "张玉芳",
+      "Xinyu Zhang"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-06-08",
+    "doi": "10.1007/s11412-026-09487-6",
+    "url": "https://doi.org/10.1007/s11412-026-09487-6",
+    "abstract": "",
+    "keywords": [
+      "Task (project management)",
+      "Course (navigation)",
+      "Translation (biology)",
+      "Task analysis",
+      "Identification (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:11:42.940518"
+  },
+  {
+    "id": "https://openalex.org/W7163808534",
+    "title": "AIGC-enhanced learning analytics in film education: a decision-making framework for creative pedagogy in Chinese higher education",
+    "authors": [
+      "Chao Tang",
+      "Lili Wang"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-06-07",
+    "doi": "10.1186/s41239-026-00593-x",
+    "url": "https://doi.org/10.1186/s41239-026-00593-x",
+    "abstract": "Abstract The integration of learning analytics with artificial intelligence represents a paradigm shift in educational decision-making, yet systematic frameworks for AI-enhanced learning design remain critically underexplored in creative higher education contexts where ethical considerations are paramount. Despite growing interest in AI-enhanced education, existing approaches lack systematic integration of learning analytics with ethical frameworks for evidence-based educational interventions in",
+    "keywords": [
+      "Learning analytics",
+      "Educational technology",
+      "Higher education",
+      "Analytics",
+      "Experiential learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00593-x",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:11:35.791381"
+  },
+  {
+    "id": "https://openalex.org/W7163809103",
+    "title": "Generative AI chatbots in higher education: addiction, cognitive offloading, and the role of AI literacy",
+    "authors": [
+      "Hasan Zahid",
+      "Muhammad Danish",
+      "Sabir Ali",
+      "Chunhui Huo",
+      "Nadeem Khalid"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-07",
+    "doi": "10.1080/10494820.2026.2677727",
+    "url": "https://doi.org/10.1080/10494820.2026.2677727",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "Chatbot",
+      "Literacy",
+      "Generative grammar",
+      "Generative model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:11:46.531456"
+  },
+  {
+    "id": "https://openalex.org/W7163826856",
+    "title": "Servingness fractured and labored: A Latina's journey of negotiating belongingness under the guise of a Hispanic‐Serving Institution",
+    "authors": [
+      "Dina Verdín"
+    ],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-06-07",
+    "doi": "10.1002/jee.70070",
+    "url": "https://doi.org/10.1002/jee.70070",
+    "abstract": "Abstract Background Students who perceive a mismatch between their disciplinary environment and their values, beliefs, and “fit” may lead them to consider other fields that better align with their ways of being and sense of belonging. Purpose The purpose of this study was to demonstrate the complexities of establishing a sense of belonging for a Latina post‐traditional student enrolled in a Hispanic‐Serving Institution. Design/Method Eight rounds of narrative interviews spanning 6 years were col",
+    "keywords": [
+      "Institution",
+      "Belongingness",
+      "Narrative",
+      "Rhetoric",
+      "Discipline"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:12:07.165339"
+  },
+  {
+    "id": "https://openalex.org/W7163816608",
+    "title": "Lesson Study in its original context: exploring Japanese teachers’ perspectives on an export hit of the Japanese education system",
+    "authors": [
+      "Julian Bucher",
+      "Klara Kager",
+      "Jongsung Kim",
+      "Miriam Vock"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-06-07",
+    "doi": "10.1080/19415257.2026.2682240",
+    "url": "https://doi.org/10.1080/19415257.2026.2682240",
+    "abstract": "",
+    "keywords": [
+      "Lesson study",
+      "Professional development",
+      "Study abroad",
+      "Faculty development",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/19415257.2026.2682240",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:12:14.276257"
+  },
+  {
     "id": "https://openalex.org/W7163774296",
     "title": "Towards Sustainable Education: Psychological Pathways from Green Gamification to Waste-Sorting Behavior among Vietnamese University Students",
     "authors": [
@@ -3333,6 +3469,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-02T23:45:03.598370"
+  },
+  {
+    "id": "https://openalex.org/W7163825967",
+    "title": "Reading with a Purpose: How Eye Movements and Working Memory Inform Comprehension Across L1 and L2 English Readers",
+    "authors": [
+      "Hatice Özata",
+      "Filiz Rızaoğlu"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-06-01",
+    "doi": "10.1016/j.system.2026.104085",
+    "url": "https://doi.org/10.1016/j.system.2026.104085",
+    "abstract": "",
+    "keywords": [
+      "Eye movement",
+      "Working memory",
+      "Reading (process)",
+      "Comprehension",
+      "Reading comprehension"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-08T23:11:43.610424"
   },
   {
     "id": "https://openalex.org/W7163741620",
