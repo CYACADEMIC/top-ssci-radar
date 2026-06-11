@@ -1,195 +1,118 @@
-📅 运行时间：2026-06-10 23:25
-📊 本次新增文章：24 篇
-📚 数据库总文章数：472 篇
-🔍 查询范围：2026-06-03 至 2026-06-10
+📅 运行时间：2026-06-11 23:21
+📊 本次新增文章：14 篇
+📚 数据库总文章数：486 篇
+🔍 查询范围：2026-06-04 至 2026-06-11
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Teaching and Teacher Education: 3 篇
-  • Journal of Science Education and Technology: 2 篇
-  • Education and Information Technologies: 2 篇
-  • Interactive Learning Environments: 2 篇
-  • Language Teaching Research: 2 篇
-  • International Journal of Educational Technology in Higher Education: 1 篇
+  • Science Education: 2 篇
   • Computers & Education: 1 篇
-  • International Journal of Computer-Supported Collaborative Learning: 1 篇
-  • System: 1 篇
-  • Journal of Educational Computing Research: 1 篇
+  • Internet and Higher Education: 1 篇
+  • Interactive Learning Environments: 1 篇
+  • Journal of Research on Technology In Education: 1 篇
+  • Innovations In Education and Teaching International: 1 篇
   • Learning and Instruction: 1 篇
-  • Asia-Pacific Education Researcher: 1 篇
-  • Modern Language Journal: 1 篇
+  • Metacognition and Learning: 1 篇
+  • Innovation In Language Learning and Teaching: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • European Journal of Education: 1 篇
   • Journal of English For Academic Purposes: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
-  • Studies In Higher Education: 1 篇
-  • Professional Development In Education: 1 篇
-  • British Educational Research Journal: 1 篇
+  • Education and Training: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education
-    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
-    作者：Stephen Colbran, Meena Jha, Caitlin Schiavone
-    日期：2026-06-09
-    关键词：Chatbot, Higher education, Learning analytics, Analytics, Descriptive statistics
-    DOI：https://doi.org/10.1186/s41239-026-00605-w
-    🔓 开放获取
+[1] Instructor's pointing gestures promote learning more than guiding gaze
+    期刊：Computers & Education (JIF: 10.5)
+    作者：Fuxing Wang, Ziyi Kuang, Frank Andrasik 等(4人)
+    日期：2026-06-08
+    关键词：Gesture, Gaze, Eye tracking, Tracking (education), Transfer of learning
+    DOI：https://doi.org/10.1016/j.compedu.2026.105692
 
 [2] Editorial Board
-    期刊：Computers & Education (JIF: 10.5)
-    日期：2026-06-09
-    DOI：https://doi.org/10.1016/s0360-1315(26)00121-1
-
-[3] From dialogue to text: Linking peer interaction to real-time revisions during L2 collaborative writing
-    期刊：International Journal of Computer-Supported Collaborative Learning (JIF: 5.7)
-    作者：Zhenhao Cao, Rachael Ruegg, Stephen Skalicky
-    日期：2026-06-09
-    关键词：Zoom, Salient, Focus (optics), Peer feedback, Online discussion
-    DOI：https://doi.org/10.1007/s11412-026-09488-5
-
-[4] Editorial Board
-    期刊：System (JIF: 5.6)
+    期刊：Internet and Higher Education (JIF: 6.8)
     日期：2026-06-10
-    DOI：https://doi.org/10.1016/s0346-251x(26)00120-x
+    DOI：https://doi.org/10.1016/s1096-7516(26)00025-4
 
-[5] Enhancing Feedback Literacy in Project-Based Science Education: Discourse Analytics and Technology Design
-    期刊：Journal of Science Education and Technology (JIF: 5.5)
-    作者：Irwan Setiawan, Hung‐Yu Kao, Kun-Ta Chuang
-    日期：2026-06-09
-    关键词：Rubric, Literacy, Science education, Metacognition, Educational technology
-    DOI：https://doi.org/10.1007/s10956-026-10327-3
-    🔓 开放获取
-
-[6] A Biological Learning Theory: How We Learn in the Era of AI
-    期刊：Journal of Science Education and Technology (JIF: 5.5)
-    作者：Brayan Díaz, Zvi Bekerman, Miguél Nussbaum
-    日期：2026-06-09
-    关键词：Cognitive reframing, Enactivism, Embodied cognition, Experiential learning, Learning sciences
-    DOI：https://doi.org/10.1007/s10956-026-10340-6
-    🔓 开放获取
-
-[7] Problematic media use, loneliness, and digital literacy in primary school children
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Murat Temur, Mustafa Erol, Ahmet Erol
-    日期：2026-06-09
-    关键词：Loneliness, Digital literacy, Social media, Literacy, Cognition
-    DOI：https://doi.org/10.1007/s10639-026-14051-8
-    🔓 开放获取
-
-[8] How do instructors’ attention and proximity influence students’ verbal engagement in higher education? insights from an AI-driven multimodal teaching behavior analytics system
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Yawen Shi, Zengzhao Chen, Zhifeng Wang 等(5人)
-    日期：2026-06-09
-    关键词：Nonverbal communication, Multimodality, Student engagement, Analytics, Educational technology
-    DOI：https://doi.org/10.1007/s10639-026-14053-6
-
-[9] A systematic review on online knowledge construction: an organizing framework for existing research and future research agenda
+[3] Epistemic and efficacy beliefs jointly shape students’ self-directed learning with technology across elementary through high school
     期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Li Zhao, Xia Liu
+    作者：Yuan‐Hsuan Lee, Oi‐Man Kwok, Jiun‐Yu Wu
     日期：2026-06-09
-    关键词：Electronic learning, Educational technology, Higher education, The Internet, Systematic review
-    DOI：https://doi.org/10.1080/10494820.2026.2677728
+    关键词：Structural equation modeling, Competence (human resources), Mechanism (biology), Task (project management), Sample (material)
+    DOI：https://doi.org/10.1080/10494820.2026.2676675
 
-[10] Artificial intelligence for engaging neurodiverse learners in K-12 education: a systematic review
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Mohammad Mohı Uddın, Feiya Luo, Jewoong Moon
-    日期：2026-06-09
-    关键词：Educational technology, Applications of artificial intelligence, Teaching method, Computer-Assisted Instruction, Experiential learning
-    DOI：https://doi.org/10.1080/10494820.2026.2679063
+[4] Children’s visual representations of artificial intelligence (AI): A drawing‑based study of Greek upper‑primary students
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Georgios Chionas, Konstantinos Kotsidis
+    日期：2026-06-10
+    关键词：Teaching method, Visualization, Representation (politics), Research methodology, Computer-Assisted Instruction
+    DOI：https://doi.org/10.1080/15391523.2026.2683788
 
-[11] Virtual Reality in Veterinary Higher Education: Enhancing Diagnostic Skills on Equine Endoscopy Procedures via Immersive Training
-    期刊：Journal of Educational Computing Research (JIF: 4.9)
-    作者：Michela Bullone, Edoardo Battegazzorre, Francesco Bonini 等(5人)
-    日期：2026-06-09
-    关键词：Virtual reality, Apprenticeship, Endoscopy, Population, Teaching method
-    DOI：https://doi.org/10.1177/07356331261456126
+[5] Engaging Gen Z in STEM higher education: Faculty presence as a catalyst for classroom connection
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Ankur Gupta, Sahil Sawhney, Ankita Nanda 等(4人)
+    日期：2026-06-10
+    关键词：Connection (principal bundle), Higher education, Electronic learning, Computer-mediated communication, Qualitative research
+    DOI：https://doi.org/10.1080/14703297.2026.2685602
 
-[12] On the challenges of investigating lasting learning: A commentary
+[6] Relationships of intrapersonal, interpersonal, and external support features related to reading engagement and digital practice with adolescents’ digital reading resilience
     期刊：Learning and Instruction (JIF: 4.9)
-    作者：Katharina Scheiter, Alexander Renkl
+    作者：Shipei Zhang, Yang Zhao (39052), Jie Hu
     日期：2026-06-10
-    关键词：Action (physics), Context (archaeology)
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102417
+    关键词：Reading (process), Resilience (materials science), Psychological resilience, Digital literacy
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102416
+
+[7] Immediate judgments of learning do not improve performance for educationally relevant materials: Evidence from key-term definitions, country outlines, and animal species
+    期刊：Metacognition and Learning (JIF: 4.8)
+    作者：Franziska Schäfer, Monika Undorf
+    日期：2026-06-10
+    关键词：Generalizability theory, Metacognition, Metamemory, Test (biology), Reactivity (psychology)
+    DOI：https://doi.org/10.1007/s11409-026-09479-9
     🔓 开放获取
 
-[13] Negotiating Occupational Well-Being in AI-Enhanced Higher Education: A Process Model of Socio-Technical Mediation
-    期刊：Asia-Pacific Education Researcher (JIF: 4.6)
-    作者：Liting Lu, Hang Xu, Y. Wang
-    日期：2026-06-09
-    关键词：Negotiation, Grounded theory, Legitimacy, Mediation, Perception
-    DOI：https://doi.org/10.1007/s40299-026-01123-z
-
-[14] Correction to “Social VR for L2 Spanish Development: Learning How to Interact With Others in a High‐Immersion Virtual Space”
-    期刊：Modern Language Journal (JIF: 4.0)
-    日期：2026-06-08
-    关键词：Virtual reality, Feature (linguistics), Mistake, Section (typography)
-    DOI：https://doi.org/10.1111/modl.70076
-
-[15] How the start-up phase of development work research projects fosters school development
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Gro Marte Strand, May Britt Postholm
+[8] Multimodal GenAI-assisted instruction in EFL argumentative writing: effects on writing skills, creativity, and critical thinking
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Yongliang Wang, Siyi Wang
     日期：2026-06-10
-    关键词：Work (physics), Phase (matter), Research development, Development (topology), Student development
-    DOI：https://doi.org/10.1016/j.tate.2026.105669
+    关键词：Argumentative, Fluency, Argument (complex analysis), Critical thinking, Qualitative property
+    DOI：https://doi.org/10.1080/17501229.2026.2683871
+
+[9] Back to normal? Longitudinal changes and predictors of teachers’ post-pandemic occupational well-being
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Meret Bunge, Thamar Voss, Dirk Richter 等(5人)
+    日期：2026-06-10
+    关键词：Longitudinal study, Longitudinal data, MEDLINE, Data collection
+    DOI：https://doi.org/10.1016/j.tate.2026.105667
     🔓 开放获取
 
-[16] What counts as competent teaching? A systematic narrative synthesis of teacher competencies in K–12 education
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Trent Dawson, Marcedes Butler, Kenneth J. Fasching-Varner
+[10] Robot‐Assisted Motor Skill Language Learning: Motivation, Enjoyment and Grit Pathways to <scp>EFL</scp> Learners' Language Achievement
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Jieping Xu
     日期：2026-06-09
-    关键词：Narrative, Teacher education, Narrative inquiry, Higher education, Systematic review
-    DOI：https://doi.org/10.1016/j.tate.2026.105684
+    关键词：Grit, Mediation, Foreign language, Academic achievement, Test (biology)
+    DOI：https://doi.org/10.1111/ejed.70720
 
-[17] Editorial Board
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    日期：2026-06-09
-    DOI：https://doi.org/10.1016/s0742-051x(26)00304-5
-
-[18] Language Education as a Complex System: Insights from Current Research
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Hossein Nassaji
-    日期：2026-06-09
-    关键词：Comprehension approach, Language acquisition, Current (fluid), Language education, Qualitative research
-    DOI：https://doi.org/10.1177/13621688261451578
-
-[19] Notes on Contributors
-    期刊：Language Teaching Research (JIF: 3.8)
-    日期：2026-06-09
-    DOI：https://doi.org/10.1177/13621688261451579
-
-[20] Exploring undergraduate students’ synthesis writing strategies and perceptions in a GenAI-supported literature review task
+[11] Rhetorical organization of Discussion sections across research articles, master's theses, and doctoral dissertations: A move-based analysis of frequency, sequencing, and embedding
     期刊：Journal of English For Academic Purposes (JIF: 3.4)
-    作者：Besma Allagui
-    日期：2026-06-09
-    关键词：Task (project management), Perception, English for academic purposes, Task analysis, Graduate students
-    DOI：https://doi.org/10.1016/j.jeap.2026.101721
+    作者：Jiaxin Zuo, Omer Hassan Ali Mahfoodh
+    日期：2026-06-11
+    关键词：Rhetorical question, Embedding, English for academic purposes, Genre analysis, Rhetorical device
+    DOI：https://doi.org/10.1016/j.jeap.2026.101720
 
-[21] Teaching for sustainability in multicultural contexts: the experience of 8 university projects in Mexico
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Eduardo Barros Guerrero, Laura Odila Bello Benavides, Andrés Felipe Bueno Lugo
-    日期：2026-06-09
-    关键词：Sustainability, Outreach, Situated, Qualitative research, Focus group
-    DOI：https://doi.org/10.1108/ijshe-02-2025-0149
+[12] Issue Information
+    期刊：Science Education (JIF: 3.4)
+    日期：2026-06-10
+    DOI：https://doi.org/10.1002/sce.70088
 
-[22] Navigating multiple institutional logics: unveiling organizational identity of Polish Catholic universities through strategic documents analysis
-    期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Marcin K. Zwierżdżyński, Dariusz Szklarczyk
-    日期：2026-06-09
-    关键词：Identity (music), Organizational identity, Higher education, Institutional logic, Religious organization
-    DOI：https://doi.org/10.1080/03075079.2026.2685021
-    🔓 开放获取
+[13] None
+    期刊：Science Education (JIF: 3.4)
+    日期：2026-06-10
+    DOI：https://doi.org/10.1002/sce.v110.4
 
-[23] Professional development for out-of-field teachers of English for Academic Purposes
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Yasemin Kırkgöz
-    日期：2026-06-09
-    关键词：Professional development, Competence (human resources), Identity (music), Turkish, Flipped learning
-    DOI：https://doi.org/10.1080/19415257.2026.2665198
-
-[24] ‘I Am Because We Are’: An Ubuntu perspective on teacher motivation in Ghana's low‐fee private schools
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：David Kyei–Nuamah, Zhengmei Peng, Xingyuan Gao
-    日期：2026-06-08
-    关键词：Indigenous, Perspective (graphical), Duty, Goodwill, Reciprocal
-    DOI：https://doi.org/10.1002/berj.70221
+[14] How self-directed experiential learning shapes the development of entrepreneurship competences: insights from reflective practice in an internship context
+    期刊：Education and Training (JIF: 3.2)
+    作者：Egidijus Rybakovas, Rimgailė Vaitkienė, Aiste Vaisnore 等(5人)
+    日期：2026-06-10
+    关键词：Experiential learning, Entrepreneurship, Reflective practice, Context (archaeology), Internship
+    DOI：https://doi.org/10.1108/et-09-2025-0728
