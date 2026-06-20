@@ -1,5 +1,60 @@
 [
   {
+    "id": "https://openalex.org/W7165368260",
+    "title": "No other choice: The fracturing of reflexivity in families' pathways into (non‐)elective home education in England",
+    "authors": [
+      "Katherine Davey",
+      "Lisa Russell",
+      "Ron Thompson",
+      "Jo Bishop"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-20",
+    "doi": "10.1002/berj.70227",
+    "url": "https://doi.org/10.1002/berj.70227",
+    "abstract": "Abstract In England, education is compulsory, but schooling is not: it is legal for families to home educate their children. This form of education is officially termed by the Department for Education as ‘Elective Home Education’. As this designation implies, many families home educate as a positive and preferential ‘choice’. For others, however, home education is not their desired first option. Drawing on a longitudinal research study that has explored the unfolding educational trajectories of ",
+    "keywords": [
+      "Reflexivity",
+      "Home education",
+      "Agency (philosophy)",
+      "Construct (python library)",
+      "Home school"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70227",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-20T23:08:30.290146"
+  },
+  {
+    "id": "https://openalex.org/W7165361253",
+    "title": "Effects of a literary intervention on teachers’ monologic and dialogic practices and the quality of students’ contributions",
+    "authors": [
+      "Yvonne Dammert",
+      "Luciano Gasser",
+      "P. Karen Murphy"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-06-20",
+    "doi": "10.1007/s11251-026-09809-z",
+    "url": "https://doi.org/10.1007/s11251-026-09809-z",
+    "abstract": "Abstract This quasi-experimental study examines the effects of a literary intervention based on the Quality Talk (QT) approach aimed at promoting dialogic discussions about a moral dilemma. Nine teachers and 104 fourth- and fifth-grade students from Switzerland participated in the study. Over the course of one school year, students in the intervention group read and discussed four literary fiction books in small groups. Teachers received video-based coaching to facilitate the discussions. The su",
+    "keywords": [
+      "Dialogic",
+      "Intervention (counseling)",
+      "Quality (philosophy)",
+      "Coaching",
+      "Exploratory research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09809-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-20T23:08:30.963914"
+  },
+  {
     "id": "https://openalex.org/W7165144002",
     "title": "When does GenAI feedback support learning? Trust calibration and verification in L2 writing assessment",
     "authors": [
