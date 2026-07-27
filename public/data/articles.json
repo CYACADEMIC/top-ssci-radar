@@ -1,5 +1,166 @@
 [
   {
+    "id": "https://openalex.org/W7171310214",
+    "title": "Anticipatory governance and leadership for AI implementation in higher education: A scoping review",
+    "authors": [
+      "Sandra Baroudi"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-07-26",
+    "doi": "10.1186/s41239-026-00616-7",
+    "url": "https://doi.org/10.1186/s41239-026-00616-7",
+    "abstract": "Abstract As the education sector attempts to address rapid changes caused by Artificial Intelligence (AI), it becomes crucial to examine approaches to leadership at the organizational and system levels. This scoping review explores how anticipatory models of governance are conceptualised and operationalised globally within higher education settings in the context of AI-related transformations. Using a scoping review design, academic and grey literature published between 2020 and 2025 was searche",
+    "keywords": [
+      "Futures studies",
+      "Corporate governance",
+      "Higher education",
+      "Leverage (statistics)",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00616-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:13.046044"
+  },
+  {
+    "id": "https://openalex.org/W7171317296",
+    "title": "Generative AI-enhanced interactive learning environments in entrepreneurship education: personalization, ethical engagement, and entrepreneurial action tendency",
+    "authors": [
+      "Fei Sun",
+      "Muyan Li"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-26",
+    "doi": "10.1080/10494820.2026.2689104",
+    "url": "https://doi.org/10.1080/10494820.2026.2689104",
+    "abstract": "",
+    "keywords": [
+      "Interactive Learning",
+      "Generative grammar",
+      "Entrepreneurship",
+      "Action (physics)",
+      "Generative model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:24.270404"
+  },
+  {
+    "id": "https://openalex.org/W7171312281",
+    "title": "From Simulation to Dialogue: A Quasi-Experimental Mixed-Methods Study of Conversational-AI Supported VR Fire Escape Training",
+    "authors": [
+      "Lei Cao",
+      "Kien Tsong Chau",
+      "Wan Ahmad Jaafar Wan Yahaya"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-07-26",
+    "doi": "10.1177/07356331261469058",
+    "url": "https://doi.org/10.1177/07356331261469058",
+    "abstract": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation. In this study, a Conversational AI Supported VR Fire Escape System ( CAVR) was developed as a Unity based virtual reality drill integrated with the Live Character API through Web Real-Time Communication (WebRTC) for low-latency speech interaction and with retrieval augmented generation grounded in a curated fire sa",
+    "keywords": [
+      "Dialog system",
+      "Embodied cognition",
+      "Virtual reality",
+      "Dialog box",
+      "Drill"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:27.986572"
+  },
+  {
+    "id": "https://openalex.org/W7171316240",
+    "title": "Examining Chinese International Students’ Continuance Intention to Use AI Systems for Speaking Practice: Insights from Acculturative Stress and the Expectation–Confirmation Model",
+    "authors": [
+      "Bin Zou",
+      "Minyiyang Zhao",
+      "Haoxin Shen",
+      "Weizheng Zhang",
+      "Chenghao Wang"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-07-26",
+    "doi": "10.1007/s40299-026-01134-w",
+    "url": "https://doi.org/10.1007/s40299-026-01134-w",
+    "abstract": "Abstract This study examines Chinese international students’ continuance intention to use AI systems (e.g., EAP Talk) for English speaking practice by extending the Expectation–Confirmation Model (ECM) with selected dimensions of acculturative stress. Using a sequential explanatory mixed-methods design, survey data from 245 students in UK higher education were analysed with structural equation modelling, followed by interviews with 16 participants. Results show that confirmation, perceived usefu",
+    "keywords": [
+      "Continuance",
+      "Acculturation",
+      "Structural equation modeling",
+      "Stress (linguistics)",
+      "Explanatory model"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s40299-026-01134-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:30.936993"
+  },
+  {
+    "id": "https://openalex.org/W7171287307",
+    "title": "Constructing knowledge through talk: a lesson study analysis of four discursive forms",
+    "authors": [
+      "Christina Chinas"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-07-26",
+    "doi": "10.1080/19415257.2026.2682236",
+    "url": "https://doi.org/10.1080/19415257.2026.2682236",
+    "abstract": "",
+    "keywords": [
+      "Lesson study",
+      "Professional development",
+      "Discourse analysis",
+      "Qualitative research",
+      "Faculty development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/19415257.2026.2682236",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:54.234599"
+  },
+  {
+    "id": "https://openalex.org/W4414026947",
+    "title": "Unveiling the Cognitive and Affective Mechanisms of Virtual Museum Learning: A Partial Least Squares Analysis",
+    "authors": [
+      "Jingjing Ma",
+      "Xiaojuan Li",
+      "Guoqing Lu",
+      "Shufan Yu",
+      "Zhongfeng Liang"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-07-25",
+    "doi": "10.1177/07356331261469084",
+    "url": "https://doi.org/10.1177/07356331261469084",
+    "abstract": "Virtual museums, as important carriers of immersive learning environments, are changing traditional knowledge acquisition and cultural inheritance methods. However, existing research focuses on direct relationships between virtual museum design features and learning outcomes, lacking systematic revelation of cognitive and affective mechanism pathways in the learning process. Therefore, this study constructs a Cognitive-Affective Model of Virtual Museum Learning (CAMVML), aiming to reveal complex",
+    "keywords": [
+      "Partial least squares regression",
+      "Cognition",
+      "Psychology",
+      "Cognitive psychology",
+      "Computer science"
+    ],
+    "open_access": true,
+    "oa_url": "https://advance.sagepub.com/doi/pdf/10.31124/advance.175705116.65793986/v1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-27T23:00:27.986644"
+  },
+  {
     "id": "https://openalex.org/W7171107387",
     "title": "Enhancing programming learning in elementary school students through pair programming scripts based on productive failure theory",
     "authors": [
