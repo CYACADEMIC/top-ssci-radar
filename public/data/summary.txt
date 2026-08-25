@@ -1,20 +1,6 @@
-📅 运行时间：2026-08-24 22:24
-📊 本次新增文章：1 篇
-📚 数据库总文章数：1790 篇
-🔍 查询范围：2026-08-17 至 2026-08-24
+📅 运行时间：2026-08-25 22:25
+📊 本次新增文章：0 篇
+📚 数据库总文章数：1765 篇
+🔍 查询范围：2026-08-18 至 2026-08-25
 
-📊 各期刊新增统计：
-----------------------------------------
-  • Professional Development In Education: 1 篇
-
-==================================================
-📝 新增文章详情：
-==================================================
-
-[1] Reimagining teacher professional development through ecological, adaptive, and human-centred perspectives
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Yue Peng, Sally Patfield, Jennifer Gore
-    日期：2026-08-23
-    关键词：Professional development, Faculty development, Professional learning community, Professional studies, Qualitative research
-    DOI：https://doi.org/10.1080/19415257.2026.2723121
-    🔓 开放获取
+本次运行没有发现新文章。
