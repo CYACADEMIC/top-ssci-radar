@@ -1,148 +1,119 @@
-📅 运行时间：2026-08-29 23:53
-📊 本次新增文章：17 篇
-📚 数据库总文章数：1793 篇
-🔍 查询范围：2026-08-22 至 2026-08-29
+📅 运行时间：2026-08-31 00:13
+📊 本次新增文章：14 篇
+📚 数据库总文章数：1760 篇
+🔍 查询范围：2026-08-24 至 2026-08-31
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Innovation In Language Learning and Teaching: 3 篇
-  • Physical Review Physics Education Research: 3 篇
-  • Innovations In Education and Teaching International: 2 篇
-  • Teaching and Teacher Education: 2 篇
-  • European Journal of Education: 2 篇
-  • Internet and Higher Education: 1 篇
+  • Education and Information Technologies: 3 篇
+  • European Journal of Education: 3 篇
+  • Journal of Research on Technology In Education: 2 篇
   • System: 1 篇
-  • Educational Review: 1 篇
-  • Studies In Higher Education: 1 篇
-  • Professional Development In Education: 1 篇
+  • Learning and Instruction: 1 篇
+  • Thinking Skills and Creativity: 1 篇
+  • ETR&D-Educational Technology Research and Development: 1 篇
+  • American Educational Research Journal: 1 篇
+  • British Educational Research Journal: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Self-regulated learning strategy transitions and academic performance in blended learning: Insights from learning analytics
-    期刊：Internet and Higher Education (JIF: 6.8)
-    作者：Jingjing Zhang, Yehong Yang, Xiaojie Niu
-    日期：2026-08-25
-    关键词：Learning analytics, Blended learning, Analytics, Electronic learning, Experiential learning
-    DOI：https://doi.org/10.1016/j.iheduc.2026.101106
-
-[2] Book review
+[1] Teacher leadership in classroom technology integration: A case study of corpus-based language pedagogy
     期刊：System (JIF: 5.6)
-    作者：Chaohai Xue, Guangxiang Liu
-    日期：2026-08-26
-    DOI：https://doi.org/10.1016/j.system.2026.104139
-
-[3] Multi-dimensional drivers and ethical synergy in student GenAI adoption: A TAM-NAM-based configurational analysis
-    期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Guoshuai Lan, Qi Xiao, Fan Song 等(5人)
+    作者：Lina Shang, Yanfang Su, Jun Lei 等(4人)
     日期：2026-08-28
-    关键词：Higher education, Statistical analysis, Graduate students, Qualitative research, Perception
-    DOI：https://doi.org/10.1080/14703297.2026.2724500
+    关键词：Language teacher, Higher education, Teaching method, Language education, Language assessment
+    DOI：https://doi.org/10.1016/j.system.2026.104140
 
-[4] Metaverse-supported pedagogy for bridging theory and practice in marketing education
-    期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Hesham Fazel, Abdelrehim Awad
-    日期：2026-08-28
-    关键词：Bridging (networking), Higher education, Teaching method, Education theory, Teacher education
-    DOI：https://doi.org/10.1080/14703297.2026.2726897
+[2] Integrating embodied cognition and artificial intelligence in university physical education: a randomized controlled trial of an AI-based Tai Chi tutoring system
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Lei Cao, Kien Tsong Chau, Wan Ahmad Jaafar Wan Yahaya 等(4人)
+    日期：2026-08-29
+    关键词：Randomized controlled trial, Personalization, Embodied cognition, Cognition, Physical education
+    DOI：https://doi.org/10.1007/s10639-026-14132-8
 
-[5] Multidimensional sense of belonging to a non-state language school in Iran: EFL learners’ competencies, opportunities, motivations, and perceptions
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Mahmoud Fereydoonfar, Reza Ahmadi
-    日期：2026-08-28
-    关键词：Construct (python library), Dynamics (music), Perception, Generativity, Narrative
-    DOI：https://doi.org/10.1080/17501229.2026.2717595
+[3] Emotion-related responses in VR classroom simulations: An AI-based analysis of preservice teachers’ conflict management
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Meriem El-Yamri, Ibis Marlene Álvarez Valdivia, Borja Manero
+    日期：2026-08-29
+    关键词：Coping (psychology), Conflict management, Ambivalence, Exploratory research, Data collection
+    DOI：https://doi.org/10.1007/s10639-026-14140-8
 
-[6] Effects of informal digital learning of English on EFL learners’ writing skills: a mixed-methods study
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Ju Seong Lee, Afsheen Rezai, Ahmad Goodarzi
-    日期：2026-08-28
-    关键词：Second language writing, Idle, Perception, Autonomy, Control (management)
-    DOI：https://doi.org/10.1080/17501229.2026.2717602
+[4] How perceived flexibility in blended learning relates to cognitive engagement through the mediation of negative-activating achievement emotions
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Yunpeng Ma
+    日期：2026-08-29
+    关键词：Flexibility (engineering), Mediation, Structural equation modeling, Cognitive flexibility, Value (mathematics)
+    DOI：https://doi.org/10.1007/s10639-026-14141-7
 
-[7] Development, validation, and refinement of the GenAI competence scale for informal digital language learning: a network and machine learning approach
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Xiaoqi Wang, Lawrence Jun Zhang
-    日期：2026-08-27
-    关键词：Competence (human resources), Generative grammar, Exploratory factor analysis, Exploratory research, Language acquisition
-    DOI：https://doi.org/10.1080/17501229.2026.2718473
+[5] Unpacking interaction profiles and strategies in human-AI collaborative problem solving: a cognitive distribution and regulation perspective
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Zhanxin Hao, Xiaobo Liu, Jiaxin Fan 等(5人)
+    日期：2026-08-29
+    关键词：Perspective (graphical), Unpacking, Cognition, Task (project management), Perspective-taking
+    DOI：https://doi.org/10.1080/15391523.2026.2722962
     🔓 开放获取
 
-[8] Connection, control, and competence: A career-stage perspective on teacher wellbeing
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Duyen T. Vo, Kelly‐Ann Allen, Fiona Longmuir 等(4人)
-    日期：2026-08-28
-    关键词：Thematic analysis, Perspective (graphical), Workload, Perception, Qualitative research
-    DOI：https://doi.org/10.1016/j.tate.2026.105799
-    🔓 开放获取
+[6] Transforming artificial intelligence from technical innovation to pedagogical practice in schools: Educational leadership perspective
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Mohammad Noman, Jie Chen, Tong Lin
+    日期：2026-08-29
+    关键词：Perspective (graphical), Distributed leadership, Instructional leadership, Educational leadership, Teacher leadership
+    DOI：https://doi.org/10.1080/15391523.2026.2724352
 
-[9] Conceptualizing and developing second language teachers’ multimodal assessment literacy in the GenAI era
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Lianjiang Jiang, Jieting Jerry Xin, Patrick Lam 等(5人)
-    日期：2026-08-28
-    关键词：Literacy, Second language, English as a second language, Discourse analysis, Literacy education
-    DOI：https://doi.org/10.1016/j.tate.2026.105790
+[7] Peer instruction in chemistry stratified exercises: Cognitive and metacognitive effects
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Yanfang Zheng, Xiangyi Wang, Yuting Zhang 等(4人)
+    日期：2026-08-29
+    关键词：Task (project management), Metacognition, Cognition, Peer instruction, Peer group
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102460
 
-[10] Dissecting an interview about astronomical distances using three models
-    期刊：Physical Review Physics Education Research (JIF: 3.6)
-    作者：Anonymous
-    日期：2026-08-28
-    关键词：Set (abstract data type), Perspective (graphical), Object (grammar), Feature (linguistics)
-    DOI：https://doi.org/10.1103/9vhd-fbfv
-    🔓 开放获取
+[8] Editorial Board
+    期刊：Thinking Skills and Creativity (JIF: 4.5)
+    日期：2026-08-29
+    DOI：https://doi.org/10.1016/s1871-1871(26)00234-8
 
-[11] Exploring pedagogical content knowledge of physics teaching assistants using the Energy and Momentum Conceptual Survey
-    期刊：Physical Review Physics Education Research (JIF: 3.6)
-    作者：Anonymous
-    日期：2026-08-28
-    关键词：Energy (signal processing), Momentum (technical analysis), Knowledge level, Field (mathematics), Content (measure theory)
-    DOI：https://doi.org/10.1103/fgqc-dfbz
-    🔓 开放获取
+[9] Do large language models stimulate student motivation? A meta-analysis of experimental studies
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Xiaoli Han, Mingzhuo Liu
+    日期：2026-08-29
+    关键词：Educational technology, Language acquisition, Computer-Assisted Instruction, Computer software, Teaching method
+    DOI：https://doi.org/10.1007/s11423-026-10687-y
 
-[12] Fostering female students in physics classes: A systematic literature review
-    期刊：Physical Review Physics Education Research (JIF: 3.6)
-    作者：Anonymous
-    日期：2026-08-28
-    关键词：Systematic review, Curriculum, Work (physics), Higher education
-    DOI：https://doi.org/10.1103/g6y1-vyzj
-    🔓 开放获取
+[10] Affordances and Constraints for Equity-Minded School Mental Health Policy Change: A District Case Study Centering the Perspectives of Community-Based Mental Health Service Providers
+    期刊：American Educational Research Journal (JIF: 3.6)
+    作者：Kate Somerville
+    日期：2026-08-29
+    关键词：Mental health, Affordance, Workforce, Principal (computer security), Mediation
+    DOI：https://doi.org/10.3102/00028312261476632
 
-[13] Pre‐Service English Teachers’ Reported Roles and Practices in Promoting Self‐Regulated Learning During the K‐12 Practicum
+[11] Mindset Matters, but How? Unravelling Growth Language Mindset Through Set ‐ESEM and Latent Profile Analysis
     期刊：European Journal of Education (JIF: 3.6)
-    作者：Ramazan Yetkin
-    日期：2026-08-27
-    关键词：Practicum, Professional development, Focus group, Teacher education, Faculty development
-    DOI：https://doi.org/10.1111/ejed.70850
+    作者：Xiaoxue Li, Apisak Sukying
+    日期：2026-08-29
+    关键词：Mindset, Structural equation modeling, Aptitude, Set (abstract data type), Language acquisition
+    DOI：https://doi.org/10.1111/ejed.70832
     🔓 开放获取
 
-[14] EFL Learners' Well‐Being Affected by Their Self‐Efficacy and Resilience in AI‐Integrated Learning Environment
+[12] Unpacking English Language Teachers' Professional Learning Needs in the Age of AI : A Descriptive Qualitative Analysis of Perceptions, Expectations and Suggested Supports
     期刊：European Journal of Education (JIF: 3.6)
-    作者：Wei Yi, Xiang Long
-    日期：2026-08-27
-    关键词：Variance (accounting), Structural equation modeling, Psychological resilience, Scale (ratio), Resilience (materials science)
-    DOI：https://doi.org/10.1111/ejed.70823
+    作者：Yuanyuan Zhang, Ali Derakhshan, Yujong Park
+    日期：2026-08-28
+    关键词：Thematic analysis, Professional learning community, Professional development, Focus group, Curriculum
+    DOI：https://doi.org/10.1111/ejed.70856
     🔓 开放获取
 
-[15] A critical (and) realist(ic) examination of psychology students’ perspectives on engaging with curriculum decolonisation initiatives
-    期刊：Educational Review (JIF: 3.4)
-    作者：Gaurav Saxena, Christopher Kent, Lucy Yardley 等(4人)
+[13] Learners' Attitudes Towards Generative Artificial Intelligence, Technology Comfort and Intentions to Adopt AI Tools in Education
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Peng Cui
     日期：2026-08-28
-    关键词：Curriculum, Enthusiasm, Decolonization, Mindset, Redress
-    DOI：https://doi.org/10.1080/00131911.2026.2714853
+    关键词：Music education, Music psychology, Association (psychology), Music technology, Descriptive statistics
+    DOI：https://doi.org/10.1111/ejed.70848
     🔓 开放获取
 
-[16] Diverse ways of knowing: epistemological perspectives of Chinese scholars in the humanities and social sciences
-    期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Yuting Shen, Lili Yang, Rui Yang
+[14] Correction to ‘How can welfare regime and production regime theories explain differences in schools’ ability grouping policies? A comparative study using the PISA school survey’
+    期刊：British Educational Research Journal (JIF: 2.1)
     日期：2026-08-28
-    关键词：Plural, Dominance (genetics), Diversity (politics), Higher education, Cognition
-    DOI：https://doi.org/10.1080/03075079.2026.2717610
-
-[17] The role of teachers’ professional biographies and development in shaping instructional strategies in out-of-field teaching
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Romana Dorfer
-    日期：2026-08-28
-    关键词：Reflexivity, Professional development, Narrative, Qualitative research, Grounded theory
-    DOI：https://doi.org/10.1080/19415257.2026.2723110
-    🔓 开放获取
+    关键词：Welfare, Production (economics), Research methodology, Educational research, Comparative education
+    DOI：https://doi.org/10.1002/berj.70270
