@@ -1,5 +1,166 @@
 [
   {
+    "id": "https://openalex.org/W7223440993",
+    "title": "Developing a Malay ethnomathematics learning instruction based on a 360-degree virtual tour: supporting fifth-grade students’ spatial skills and cultural awareness",
+    "authors": [
+      "Rizki Rahmali Fadhillah",
+      "Zetra Hainul Putra",
+      "Neni Hermita",
+      "Sagheer Ahmad"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-24",
+    "doi": "10.1007/s10639-026-14176-w",
+    "url": "https://doi.org/10.1007/s10639-026-14176-w",
+    "abstract": "",
+    "keywords": [
+      "Malay",
+      "Mathematics education",
+      "Ethnomathematics",
+      "Psychology",
+      "Cultural diversity"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:42.972582"
+  },
+  {
+    "id": "https://openalex.org/W7223470660",
+    "title": "Balancing empowerment and threat: deciphering the sustainable integration of Gen AI in creative pedagogy",
+    "authors": [
+      "Shuyue Huang",
+      "Yunhao Zhang",
+      "Muze Li",
+      "Zhengfeng Yang",
+      "Yuqi Shen"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-24",
+    "doi": "10.1007/s10639-026-14175-x",
+    "url": "https://doi.org/10.1007/s10639-026-14175-x",
+    "abstract": "",
+    "keywords": [
+      "Continuance",
+      "Structural equation modeling",
+      "Psychology",
+      "Empowerment",
+      "Social psychology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:42.972597"
+  },
+  {
+    "id": "https://openalex.org/W7223451503",
+    "title": "Toward an Interpretive Synthesis of Personalization, Co-Design, and Ethical Mediation in AI-Supported Higher Education: An Integrative Review of Agentic, Generative, and Adaptive Tutoring Systems",
+    "authors": [
+      "Xuao Li",
+      "Rafiza Abdul Razak"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1177/07356331261498975",
+    "url": "https://doi.org/10.1177/07356331261498975",
+    "abstract": "Generative artificial intelligence (AI) and adaptive learning technologies are expanding in higher education, raising questions about their alignment with pedagogical goals. This qualitative-integrative review synthesizes 57 publications (21 empirical, 25 conceptual or framework, 9 systematic reviews or meta-analyses retained for triangulation, and 2 design/development papers) from 2024 to 2026, employing Whittemore and Knafl’s methodology to examine AI-supported tutoring, implementation strateg",
+    "keywords": [
+      "Personalization",
+      "Mediation",
+      "Adaptation (eye)",
+      "Psychology",
+      "Raising (metalworking)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:47.227635"
+  },
+  {
+    "id": "https://openalex.org/W7223448919",
+    "title": "Professional identity under constraint: An autoethnographic study of an English teacher in Chinese private higher education",
+    "authors": [
+      "Mi Zhang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105872",
+    "url": "https://doi.org/10.1016/j.tate.2026.105872",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Pedagogy",
+      "Autoethnography",
+      "Sociology",
+      "Identity (music)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:58.605031"
+  },
+  {
+    "id": "https://openalex.org/W7223452313",
+    "title": "Unpacking the development of digital competence in Irish primary initial teacher education: A mixed-methods study",
+    "authors": [
+      "Denis Moynihan",
+      "Margaret Leahy",
+      "Darina Scully",
+      "Alan Gorman"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105889",
+    "url": "https://doi.org/10.1016/j.tate.2026.105889",
+    "abstract": "",
+    "keywords": [
+      "Unpacking",
+      "Irish",
+      "Competence (human resources)",
+      "Pedagogy",
+      "Grounded theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:58.605045"
+  },
+  {
+    "id": "https://openalex.org/W7223459808",
+    "title": "Material meanings of ‘transformative learning’ among sustainability educators in universities",
+    "authors": [
+      "Henry A. Finn"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105856",
+    "url": "https://doi.org/10.1016/j.tate.2026.105856",
+    "abstract": "Prominent calls have been made to radically shift current teaching provision in higher education towards critically ‘transformative’ pedagogies that align with the pressing imperatives of sustainability. Yet much uncertainty remains over how educators envision the notion of ‘transformative learning’ and their possible role in supporting it. In this study, 21 interviews were conducted with specialist UK-based academics in which they were asked to bring a physical object to represent what ‘transfo",
+    "keywords": [
+      "Context (archaeology)",
+      "Agency (philosophy)",
+      "Pedagogy",
+      "Sustainability",
+      "Sociology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105856",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:58.605222"
+  },
+  {
     "id": "https://openalex.org/W7223270191",
     "title": "Deskilling the Laboratory: A Systematic Review of Artificial Intelligence as a Threat to Embodied and Tacit Knowledge in Hands-On Science Practical Work",
     "authors": [
@@ -295,6 +456,85 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-25T00:00:54.793618"
+  },
+  {
+    "id": "https://openalex.org/W7223220095",
+    "title": "Self-regulated learning trajectories, predictors, and cognitive outcomes in animation-facilitated computational thinking: A growth mixture modelling study of primary students",
+    "authors": [
+      "Siu Cheung Kong",
+      "Yi Qing WANG"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.compedu.2026.105773",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105773",
+    "abstract": "",
+    "keywords": [
+      "student self-regulation",
+      "computational thinking",
+      "animation",
+      "elementary school students",
+      "learning trajectories"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:33.650529"
+  },
+  {
+    "id": "https://openalex.org/W7223216737",
+    "title": "Developmental trajectories and factors associated with English-speaking flow in HCI-assisted learning among Chinese undergraduates",
+    "authors": [
+      "Liangjie Fan"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.system.2026.104181",
+    "url": "https://doi.org/10.1016/j.system.2026.104181",
+    "abstract": "",
+    "keywords": [
+      "Chinese undergraduates",
+      "developmental trajectories",
+      "English language learning",
+      "human-computer interaction in education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:40.696753"
+  },
+  {
+    "id": "https://openalex.org/W7223240184",
+    "title": "Brain dynamics differentially predict originality and appropriateness of creativity: The role of error sensitivity",
+    "authors": [
+      "Juan Liu",
+      "Haishuo Xia",
+      "Xueyang Wang",
+      "Yunhong Wang",
+      "Geng Li"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.tsc.2026.102403",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102403",
+    "abstract": "",
+    "keywords": [
+      "creativity",
+      "originality",
+      "appropriateness",
+      "error sensitivity",
+      "post-error slowing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:49:52.322424"
   },
   {
     "id": "https://openalex.org/W7223330249",
