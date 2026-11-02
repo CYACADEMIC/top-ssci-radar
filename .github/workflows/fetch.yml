@@ -53,6 +53,8 @@ jobs:
 
       - name: 发送邮件通知
         if: steps.check_changes.outputs.has_changes == 'true'
+        # 邮件通知失败时，仍允许发布最新文章数据。
+        continue-on-error: true
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.163.com
